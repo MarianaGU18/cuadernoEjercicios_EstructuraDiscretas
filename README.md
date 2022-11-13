@@ -1,0 +1,2 @@
+# cuadernoEjercicios_EstructuraDiscretas
+Cuaderno Ejercicios Estructuras Discretas FI UNAM
